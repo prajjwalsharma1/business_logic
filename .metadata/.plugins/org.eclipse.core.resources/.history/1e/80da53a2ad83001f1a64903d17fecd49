@@ -1,0 +1,15 @@
+package com.example.JavaComplete;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JavaCompleteApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JavaCompleteApplication.class, args);
+		System.out.println("Prajjwal sharma");
+		int a;// one byte of memory is allocation once it is declared
+	}
+
+}
