@@ -26,8 +26,6 @@ public String timetaken() {
 	System.out.println(g);
 	return "1";
 	
-	
-	
 }
 	
 }
